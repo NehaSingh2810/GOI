@@ -1,3 +1,21 @@
+# GOI
+
+Web-based Platform for Collecting 360-Degree Feedback on Government of India News Stories from Regional Media
+
+This repository is built with the Vite React template and includes a backend (Node/Express) and a frontend (React + Vite + Tailwind).
+
+Getting started
+
+- Install dependencies: `npm install`
+- Start frontend dev server: `npm run dev`
+- Start backend: `cd backend && npm install && npm run start`
+
+About
+
+This project collects crowd-sourced feedback on news stories and stores ratings and comments via a backend API. It includes real-time features via WebSockets.
+
+For developer notes and template information, see the project files.
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +32,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# GOI
+Web-based Platform for Collecting 360-Degree Feedback on Government of India News Stories from Regional Media
+>>>>>>> 7ae668d3c89a37aadd78cbb3b245c55ed107e274
